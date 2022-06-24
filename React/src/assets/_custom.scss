@@ -1,0 +1,30 @@
+.font-weight-semibold{
+    font-weight:500;
+}
+.font-weight-bold {
+    font-weight: 500 !important;
+}
+.form-group {
+    margin-bottom: 1.5rem;
+}
+.form-control{
+    padding: 0.53rem 1rem;
+}
+.pagination li{
+    cursor: pointer;
+}
+#root{
+    position: relative;
+}
+.loader{
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    z-index:999999;
+}
+.profile-div{
+    overflow:hidden;
+    width:100px; 
+    height: 100px;
+    border-radius:50%;
+}
